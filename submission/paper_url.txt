@@ -1,1 +1,4 @@
 PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/EmanElmaasarawi/Flyrank-ML1
+https://github.com/EmanElmaasarawi/Flyrank-ML1/blob/main/Copy_of_01_first_look_and_discovery.ipynb
+https://colab.research.google.com/drive/1OnRJqjAObEMPYI1pPumUgZtPpz4vFZe7?usp=drive_link
